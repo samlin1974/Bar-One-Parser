@@ -1,0 +1,5 @@
+{
+  "name": "Bar-One File Parser",
+  "description": "A specialized tool to extract ID numbers and values from Bar-One (.lbl) and ZebraDesigner files.",
+  "requestFramePermissions": []
+}
